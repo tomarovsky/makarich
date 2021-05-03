@@ -1,0 +1,5 @@
+site_name: Makarich
+theme: readthedocs
+nav:
+    - Главная страница: index.md
+    - Памятка для пользователей: faq.md
