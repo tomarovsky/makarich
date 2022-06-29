@@ -60,9 +60,9 @@
 - Инвентаризация/хэлпдеск: GLPI
 - Виртуализация: Docker
 - Прочая классика:
-- MySQL
-- Apache
-- Squid
+	- MySQL
+	- Apache
+	- Squid
 
 ### Служебные сервисы:
 
@@ -74,7 +74,8 @@
 
 ### Веб-сервисы:
 
-- [Rstudio](https://ma.fbb.msu.ru/rstudio/)
+- [RStudio](https://ma.fbb.msu.ru/rstudio/) (R version 3.6.3)
+- [RStudio-beta](https://ma.fbb.msu.ru/rstudio-beta/) (R version 4.1.0)
 - [Jupyter](https://ma.fbb.msu.ru/jupyter/)
 - Sequenceserver
 - TravaDB
